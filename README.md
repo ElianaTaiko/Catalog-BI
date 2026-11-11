@@ -3,6 +3,7 @@
 Справки по дашбордам Fitbase Analytics для владельцев студий.
 
 - [Аналитика клиентской базы](https://elianataiko.github.io/Catalog-BI/) – справка по дашборду
+- [Воронка](https://elianataiko.github.io/Catalog-BI/voronka.html) – справка по дашборду
 - [Варианты подробного описания показателей](https://elianataiko.github.io/Catalog-BI/varianty.html) – превью на блоке 3.2, для выбора подачи
 
 Страницы собираются из Word-файлов модулей скриптом `Оформление FitBase/собрать_html.py` (рабочая папка каталога, не в этом репозитории) и копируются сюда.
